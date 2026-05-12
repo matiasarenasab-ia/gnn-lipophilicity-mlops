@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/
+*.csv
+*.zip
+*.npy
+best_*.pth
+.vscode/
